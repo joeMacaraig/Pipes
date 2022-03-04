@@ -1,4 +1,10 @@
 //pipe4.cpp  (data producer)
+
+/*
+g++ -o pipe4 pipe4.cpp
+g++ -o pipe5 pipe5.cpp
+./pipe4 write anything youd like
+*/
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdio.h>

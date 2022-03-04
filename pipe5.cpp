@@ -1,4 +1,5 @@
-// The 'consumer' program, pipe5.cpp, that reads the data is much simpler.
+// pipe5.cpp
+//The 'consumer' program that reads the data is much simpler.
 
 #include <unistd.h>
 #include <stdlib.h>
